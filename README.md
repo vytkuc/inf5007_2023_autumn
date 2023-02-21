@@ -1,2 +1,2 @@
 # inf5007
-INF5007 Neuroniniai tinklai 
+Neural Networks / Neuroniniai tinklai 
