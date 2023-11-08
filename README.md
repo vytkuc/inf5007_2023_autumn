@@ -8,3 +8,6 @@ Table of contents:
 2. Data preparation
 3. Simple neural network 
 4. Multilayer perceptron (Classification and prediction)
+5. Convolutional NN
+6. Recurrent NN
+7. LSTM
