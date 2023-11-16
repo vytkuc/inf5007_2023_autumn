@@ -11,3 +11,6 @@ Table of contents:
 5. Convolutional NN
 6. Recurrent NN
 7. LSTM
+8. Autoencoders
+9. Transformers
+10. GANs
